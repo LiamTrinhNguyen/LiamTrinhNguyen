@@ -36,7 +36,7 @@ Accomplished Data Scientist with an M.S. in Bioinformatics & Computational Biolo
 
 | Project | Description | Repository |
 |---------|-------------|----------|
-| Automated Preliminary Review (APR) | Rule-based high-risk sample review automation (SOP-300) | GitHub |
+| Automated Preliminary Review (APR) | Rule-based high-risk sample review automation (SOP-300) | [data_prelim](https://github.com/LiamTrinhNguyen/nadp_data_prelim) |
 | NADP TDep Model Fusion | Measurement-Model Fusion pipeline for deposition mapping | [nadp_tdep](https://github.com/LiamTrinhNguyen/nadp_tdep) |
 | Dual FFT-ACF Periodicity Analysis | Persistent cycle detection in environmental data | NADP 2026 |
 | Automated NGS Variant Calling (E. coli) | Full pipeline: SRA → fastp → BWA-MEM → BCFtools → SnpEff | [ngs-variant-calling](https://github.com/LiamTrinhNguyen/ngs-variant-calling) |
