@@ -2,7 +2,7 @@
   <img src="assets/logo.png" alt="Liam TrinhNguyen Logo" width="100%"/>
 </p>
 
-<h1 align="center">Liam TrinhNguyen</h1>
+
 <h3 align="center">APHL-CDC Public Health Laboratory Fellow (2025–2027) | Data Scientist & Bioinformatician</h3>
 
 <p align="center">
