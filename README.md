@@ -50,6 +50,7 @@ Accomplished Data Scientist with an M.S. in Bioinformatics & Computational Biolo
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
@@ -72,6 +73,7 @@ Accomplished Data Scientist with an M.S. in Bioinformatics & Computational Biolo
 **Tools & Infrastructure**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Conda](https://img.shields.io/badge/Conda-44A833?style=flat&logo=conda-forge&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![ArcGIS Pro](https://img.shields.io/badge/ArcGIS-FF0000?style=flat&logo=esri&logoColor=white)
