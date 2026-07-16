@@ -27,7 +27,7 @@ Accomplished Data Scientist with an M.S. in Bioinformatics & Computational Biolo
 **2025 – 2027**
 
 - **Automated Preliminary Review (APR)** — Python package automating SOP-300 for high-risk sample review with built-in visualizations and version control.
-- **NADP TDep Measurement-Model Fusion (MMF)** — Developing production-grade application fusing CASTNET/NTN observations with CMAQ and PRISM models.
+- **NADP TDep Measurement-Model Fusion (MMF)** — Developing production-grade application fusing CASTNET/NTN observations with CMAQ and PRISM models (Virtual NADP Fall 2025 Business Meeting).
 - **Dual FFT & ACF Analysis** — Research on persistent seasonal cycles in wet and dry deposition chemistry (NADP 2026 Symposium).
 
 ---
@@ -39,7 +39,7 @@ Accomplished Data Scientist with an M.S. in Bioinformatics & Computational Biolo
 | Automated Preliminary Review (APR) | Rule-based high-risk sample review automation (SOP-300) | GitHub |
 | NADP TDep Model Fusion | Measurement-Model Fusion pipeline for deposition mapping | [nadp_tdep](https://github.com/LiamTrinhNguyen/nadp_tdep) |
 | Dual FFT-ACF Periodicity Analysis | Persistent cycle detection in environmental data | NADP 2026 |
-| Automated NGS Variant Calling (E. coli) | Full pipeline: SRA → fastp → BWA-MEM → BCFtools → SnpEff | [ngs-variant-calling](https://github.com/LiamTrinhNguyen/ngs-variant-calling) |
+| Automated NGS Variant Calling (E. coli) | Full pipeline: SRA -> fastp -> BWA-MEM -> BCFtools -> SnpEff | [ngs-variant-calling](https://github.com/LiamTrinhNguyen/ngs-variant-calling) |
 | NCBI Proteomics Fetcher & Analysis | Automated proteomics workflow with in-silico digestion | [ncbi-proteomics-fetcher](https://github.com/LiamTrinhNguyen/ncbi-proteomics-fetcher) |
 
 ---
@@ -66,10 +66,10 @@ Accomplished Data Scientist with an M.S. in Bioinformatics & Computational Biolo
 
 ### Connect With Me
 
-- **GitHub**: [@LiamTrinhNguyen](https://github.com/LiamTrinhNguyen)
-- **LinkedIn**: [Liam TrinhNguyen](https://www.linkedin.com/in/liam-trinhnguyen-0a19a9162/)
-- **Email**: TrinhNguyen@wisc.edu | LiamTrinhNguyen@gmail.com
-- **Location**: Madison, Wisconsin
+**GitHub**: [@LiamTrinhNguyen](https://github.com/LiamTrinhNguyen)
+**LinkedIn**: [Liam TrinhNguyen](https://www.linkedin.com/in/liam-trinhnguyen-0a19a9162/)
+**Email**: TrinhNguyen@wisc.edu | LiamTrinhNguyen@gmail.com
+- **Location**: Madison (Wisconsin), Dallas (Texas)
 
 </div>
 
