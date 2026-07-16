@@ -39,20 +39,48 @@ Accomplished Data Scientist with an M.S. in Bioinformatics & Computational Biolo
 | Automated Preliminary Review (APR) | Rule-based high-risk sample review automation (SOP-300) | GitHub |
 | NADP TDep Model Fusion | Measurement-Model Fusion pipeline for deposition mapping | [nadp_tdep](https://github.com/LiamTrinhNguyen/nadp_tdep) |
 | Dual FFT-ACF Periodicity Analysis | Persistent cycle detection in environmental data | NADP 2026 |
-| Automated NGS Variant Calling (E. coli) | Full pipeline: SRA -> fastp -> BWA-MEM -> BCFtools -> SnpEff | [ngs-variant-calling](https://github.com/LiamTrinhNguyen/ngs-variant-calling) |
+| Automated NGS Variant Calling (E. coli) | Full pipeline: SRA → fastp → BWA-MEM → BCFtools → SnpEff | [ngs-variant-calling](https://github.com/LiamTrinhNguyen/ngs-variant-calling) |
 | NCBI Proteomics Fetcher & Analysis | Automated proteomics workflow with in-silico digestion | [ncbi-proteomics-fetcher](https://github.com/LiamTrinhNguyen/ncbi-proteomics-fetcher) |
 
 ---
 
 ### Tech Stack
 
-**Languages**  Python • R • SQL • Bash  
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-**Data Science**  Pandas • Polars • NumPy • SciPy • Scikit-learn • PyTorch • Time Series (FFT/ACF)  
+**Data Science & Analysis**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-4A90E2?style=flat&logo=polars&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-**Bioinformatics**  BWA-MEM • BCFtools • SnpEff • fastp • Bioconda • Entrez  
+**Bioinformatics**  
+![BWA-MEM](https://img.shields.io/badge/BWA-4B0082?style=flat)
+![BCFtools](https://img.shields.io/badge/BCFtools-8B4513?style=flat)
+![SnpEff](https://img.shields.io/badge/SnpEff-228B22?style=flat)
+![fastp](https://img.shields.io/badge/fastp-FF69B4?style=flat)
 
-**Tools**  Git • Conda • ArcGIS Pro • Microsoft SQL Server • GitHub Codespaces • R Markdown
+**Tools & Infrastructure**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Conda](https://img.shields.io/badge/Conda-44A833?style=flat&logo=conda-forge&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![ArcGIS Pro](https://img.shields.io/badge/ArcGIS-FF0000?style=flat&logo=esri&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Codespaces](https://img.shields.io/badge/GitHub%20Codespaces-181717?style=flat&logo=github&logoColor=white)
+
+**Visualization & Reporting**  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-4A90E2?style=flat)
+![Geopandas](https://img.shields.io/badge/Geopandas-4A90E2?style=flat)
+![R Markdown](https://img.shields.io/badge/R%20Markdown-276DC3?style=flat&logo=r&logoColor=white)
 
 ---
 
@@ -66,10 +94,10 @@ Accomplished Data Scientist with an M.S. in Bioinformatics & Computational Biolo
 
 ### Connect With Me
 
-**GitHub**: [@LiamTrinhNguyen](https://github.com/LiamTrinhNguyen)
-**LinkedIn**: [Liam TrinhNguyen](https://www.linkedin.com/in/liam-trinhnguyen-0a19a9162/)
-**Email**: TrinhNguyen@wisc.edu | LiamTrinhNguyen@gmail.com
-- **Location**: Madison (Wisconsin), Dallas (Texas)
+**GitHub**: [@LiamTrinhNguyen](https://github.com/LiamTrinhNguyen)  
+**LinkedIn**: [Liam TrinhNguyen](https://www.linkedin.com/in/liam-trinhnguyen-0a19a9162/)  
+**Email**: TrinhNguyen@wisc.edu | LiamTrinhNguyen@gmail.com  
+**Location**: Madison (Wisconsin), Dallas (Texas)
 
 </div>
 
