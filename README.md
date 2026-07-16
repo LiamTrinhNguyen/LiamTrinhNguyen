@@ -18,8 +18,6 @@
 
 Accomplished Data Scientist with an M.S. in Bioinformatics & Computational Biology and a track record of architecting reproducible, research-scale data pipelines. Expert in bridging the gap between ambiguous research questions and production-grade technical solutions through rigorous statistical analysis, ML-based imputation, and large-scale NGS data processing. Proven ability to optimize development workflows, lead cross-disciplinary collaborations, and maintain high standards for validation — from high-throughput genomic sequencing experiments to longitudinal environmental monitoring.
 
-</div>
-
 ---
 
 ### Professional Experience
@@ -30,7 +28,7 @@ Accomplished Data Scientist with an M.S. in Bioinformatics & Computational Biolo
 
 - **Automated Preliminary Review (APR)** — Python package automating SOP-300 for high-risk sample review with built-in visualizations and version control.
 - **NADP TDep Measurement-Model Fusion (MMF)** — Developing production-grade application fusing CASTNET/NTN observations with CMAQ and PRISM models.
-- **Dual FFT & ACF Analysis** — Research on persistent seasonal cycles in atmospheric deposition chemistry (NADP 2026 Symposium).
+- **Dual FFT & ACF Analysis** — Research on persistent seasonal cycles in wet and dry deposition chemistry (NADP 2026 Symposium).
 
 ---
 
@@ -38,39 +36,43 @@ Accomplished Data Scientist with an M.S. in Bioinformatics & Computational Biolo
 
 | Project | Description | Repository |
 |---------|-------------|----------|
-| Automated Preliminary Review (APR) | Rule-based automation of SOP-300 with visualizations | GitHub |
-| NADP TDep Model Fusion | Measurement-Model Fusion pipeline | [nadp_tdep](https://github.com/LiamTrinhNguyen/nadp_tdep) |
-| Dual FFT-ACF Periodicity Analysis | Persistent cycles in wet/dry deposition | NADP 2026 |
-| Automated NGS Variant Calling Pipeline (E. coli) | Full lifecycle variant detection | [ngs-variant-calling](https://github.com/LiamTrinhNguyen/ngs-variant-calling) |
-| NCBI Proteomics Fetcher & Analysis Pipeline | Automated proteomics workflow | [ncbi-proteomics-fetcher](https://github.com/LiamTrinhNguyen/ncbi-proteomics-fetcher) |
+| Automated Preliminary Review (APR) | Rule-based high-risk sample review automation (SOP-300) | GitHub |
+| NADP TDep Model Fusion | Measurement-Model Fusion pipeline for deposition mapping | [nadp_tdep](https://github.com/LiamTrinhNguyen/nadp_tdep) |
+| Dual FFT-ACF Periodicity Analysis | Persistent cycle detection in environmental data | NADP 2026 |
+| Automated NGS Variant Calling (E. coli) | Full pipeline: SRA → fastp → BWA-MEM → BCFtools → SnpEff | [ngs-variant-calling](https://github.com/LiamTrinhNguyen/ngs-variant-calling) |
+| NCBI Proteomics Fetcher & Analysis | Automated proteomics workflow with in-silico digestion | [ncbi-proteomics-fetcher](https://github.com/LiamTrinhNguyen/ncbi-proteomics-fetcher) |
 
 ---
 
 ### Tech Stack
 
-**Languages** • Python • R • SQL  
-**Data Science** • Pandas • Polars • Time Series (FFT/ACF) • Scikit-learn • PyTorch  
-**Bioinformatics** • BWA-MEM • BCFtools • SnpEff • fastp • Bioconda  
-**Tools** • Git • Conda • ArcGIS Pro • SQL Server • R Markdown • Geopandas
+**Languages**  Python • R • SQL • Bash  
+
+**Data Science**  Pandas • Polars • NumPy • SciPy • Scikit-learn • PyTorch • Time Series (FFT/ACF)  
+
+**Bioinformatics**  BWA-MEM • BCFtools • SnpEff • fastp • Bioconda • Entrez  
+
+**Tools**  Git • Conda • ArcGIS Pro • Microsoft SQL Server • GitHub Codespaces • R Markdown
 
 ---
 
 ### Selected Publications & Presentations
 
-- **Dual FFT and ACF Analysis Reveals Persistent Annual and Semi-Annual Cycles...** — NADP 2026 Scientific Symposium
+- **Dual FFT and ACF Analysis Reveals Persistent Annual and Semi-Annual Cycles in Both Wet and Dry Deposition Chemistry Across U.S. Monitoring Networks** — NADP 2026 Scientific Symposium
 - **TDep Annual Report 2024–2025** — [Download PDF](https://nadp.slh.wisc.edu/wp-content/uploads/2026/03/TDepAnnualReport2024-2025.pdf)
 - **2026 TDep Poster Session** — [View Poster](https://nadp.slh.wisc.edu/2026-poster-session/)
 
 ---
 
-<div align="center">
-
 ### Connect With Me
 
-- **GitHub**: [LiamTrinhNguyen](https://github.com/LiamTrinhNguyen)
+- **GitHub**: [@LiamTrinhNguyen](https://github.com/LiamTrinhNguyen)
 - **LinkedIn**: [Liam TrinhNguyen](https://www.linkedin.com/in/liam-trinhnguyen-0a19a9162/)
 - **Email**: TrinhNguyen@wisc.edu | LiamTrinhNguyen@gmail.com
-
-*Building reproducible pipelines that turn complex environmental and biological data into actionable insights.*
+- **Location**: Madison, Wisconsin
 
 </div>
+
+---
+
+*Building reproducible pipelines that turn complex environmental and biological data into actionable scientific insights.*
