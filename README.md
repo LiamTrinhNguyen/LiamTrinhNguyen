@@ -46,6 +46,7 @@ Accomplished Data Scientist with an M.S. in Bioinformatics & Computational Biolo
 
 ### Tech Stack
 
+
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
@@ -61,10 +62,12 @@ Accomplished Data Scientist with an M.S. in Bioinformatics & Computational Biolo
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 **Bioinformatics**  
+![NCBI](https://img.shields.io/badge/NCBI-4B0082?style=flat)
 ![BWA-MEM](https://img.shields.io/badge/BWA-4B0082?style=flat)
 ![BCFtools](https://img.shields.io/badge/BCFtools-8B4513?style=flat)
 ![SnpEff](https://img.shields.io/badge/SnpEff-228B22?style=flat)
 ![fastp](https://img.shields.io/badge/fastp-FF69B4?style=flat)
+![Bioconda](https://img.shields.io/badge/Bioconda-44A833?style=flat)
 
 **Tools & Infrastructure**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
