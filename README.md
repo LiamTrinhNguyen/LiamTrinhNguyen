@@ -40,7 +40,7 @@ Accomplished Data Scientist with an M.S. in Bioinformatics & Computational Biolo
 | NADP TDep Model Fusion | Measurement-Model Fusion pipeline for deposition mapping | [nadp_tdep](https://github.com/LiamTrinhNguyen/nadp_tdep) |
 | Dual FFT-ACF Periodicity Analysis | Persistent cycle detection in environmental data | NADP 2026 |
 | Automated NGS Variant Calling (E. coli) | Full pipeline: SRA -> fastp -> BWA-MEM -> BCFtools -> SnpEff | [ngs-variant-calling](https://github.com/LiamTrinhNguyen/ngs-variant-calling) |
-| NCBI Proteomics Fetcher & Analysis | Automated proteomics workflow with in-silico digestion | [ncbi-proteomics-fetcher](https://github.com/LiamTrinhNguyen/ncbi-proteomics-fetcher) |
+| NCBI Proteomics Fetcher & Analysis | Automated proteomics workflow with in-silico digestion | [ncbi-proteomics-fetcher](https://github.com/LiamTrinhNguyen/ngs-variant-calling/issues) |
 
 ---
 
@@ -49,7 +49,7 @@ Accomplished Data Scientist with an M.S. in Bioinformatics & Computational Biolo
 | Name | Description | DEMO | Suggestion
 |-----------|-------------|------------|------------|
 | **GIS_TDEP** | Collects site IDs from CASTNET / NTN networks and provides interactive GIS mapping, statistical analysis, and FFT/ACF trend detection of wet & dry deposition data | [GIS_TDEP](https://liamtrinhnguyen.github.io/GIS_TDEP/) | [Ideas/Suggest](https://github.com/LiamTrinhNguyen/GIS_TDEP/issues)|
-| **GIS_TDEP** | Collects site IDs from CASTNET / NTN networks and provides interactive GIS mapping, statistical analysis, and FFT/ACF trend detection of wet & dry deposition data | [GIS_TDEP](https://liamtrinhnguyen.github.io/GIS_TDEP/) | [Ideas/Suggest](https://github.com/LiamTrinhNguyen/GIS_TDEP/issues)|
+| **NGS variance** | demo of sample running | [RUN](https://liamtrinhnguyen.github.io/ngs-variant-calling/) | [Ideas/Suggest](https://github.com/LiamTrinhNguyen/GIS_TDEP/issues)|
 
 ---
 
