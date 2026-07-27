@@ -48,7 +48,8 @@ Accomplished Data Scientist with an M.S. in Bioinformatics & Computational Biolo
 
 | Name | Description | DEMO | Suggestion
 |-----------|-------------|------------|------------|
-| **GIS_TDEP** | Collects site IDs from CASTNET / NTN networks and provides interactive GIS mapping, statistical analysis, and FFT/ACF trend detection of wet & dry deposition data | [GIS_TDEP](https://liamtrinhnguyen.github.io/GIS_TDEP/) | [Ideas/Suggest](https://github.com/LiamTrinhNguyen/GIS_TDEP/issues)
+| **GIS_TDEP** | Collects site IDs from CASTNET / NTN networks and provides interactive GIS mapping, statistical analysis, and FFT/ACF trend detection of wet & dry deposition data | [GIS_TDEP](https://liamtrinhnguyen.github.io/GIS_TDEP/) | [Ideas/Suggest](https://github.com/LiamTrinhNguyen/GIS_TDEP/issues)|
+| **GIS_TDEP** | Collects site IDs from CASTNET / NTN networks and provides interactive GIS mapping, statistical analysis, and FFT/ACF trend detection of wet & dry deposition data | [GIS_TDEP](https://liamtrinhnguyen.github.io/GIS_TDEP/) | [Ideas/Suggest](https://github.com/LiamTrinhNguyen/GIS_TDEP/issues)|
 
 ---
 
