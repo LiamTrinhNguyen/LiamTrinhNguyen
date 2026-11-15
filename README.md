@@ -17,7 +17,7 @@
 
 Accomplished Data Scientist with an M.S. in Bioinformatics & Computational Biology and a track record of architecting reproducible, research-scale data pipelines. Expert in bridging the gap between ambiguous research questions and production-grade technical solutions through rigorous statistical analysis, ML-based imputation, and large-scale NGS data processing. Proven ability to optimize development workflows, lead cross-disciplinary collaborations, and maintain high standards for validation — from high-throughput genomic sequencing experiments to longitudinal environmental monitoring.
 
-Also ships interactive products. **Ludo delux** is a finished cross-platform game, built in TypeScript and React and prepared for the Apple App Store: a 3–10 player ladybug race with exact-distance rules, Wild items, and phone-to-phone play. The live app runs on [Vercel](https://vercel.com) and stores its data in [Neon](https://console.neon.tech) Postgres.
+Also ships interactive products. **Ludo delux** is a finished cross-platform game, built in TypeScript and React and prepared for the Apple App Store: a 3–10 player ladybug race with exact-distance rules, Wild items, and phone-to-phone play. Play it at [ludo-delux.vercel.app](https://ludo-delux.vercel.app). It runs on Vercel and stores temporary room data in Neon Postgres. The source stays private.
 
 ---
 
@@ -42,7 +42,7 @@ Also ships interactive products. **Ludo delux** is a finished cross-platform gam
 | Dual FFT-ACF Periodicity Analysis | Persistent cycle detection in environmental data | NADP 2026 |
 | Automated NGS Variant Calling (E. coli) | Full pipeline: SRA -> fastp -> BWA-MEM -> BCFtools -> SnpEff | [ngs-variant-calling](https://github.com/LiamTrinhNguyen/ngs-variant-calling) |
 | NCBI Proteomics Fetcher & Analysis | Automated proteomics workflow with in-silico digestion | [ncbi-proteomics-fetcher](https://github.com/LiamTrinhNguyen/ngs-variant-calling/issues) |
-| Ludo delux | Cross-platform ladybug race for 3–10 players. Hosted on Vercel. Database on the Neon Console. Apple App Store submission. | [web version]([https://vercel.com](https://ludo-delux.vercel.app))  |
+| Ludo delux | Cross-platform ladybug race for 3–10 players. Live on Vercel. Temporary room data on the Neon Console. Source is private. Apple App Store submission. | [Play](https://ludo-delux.vercel.app) |
 
 ---
 
@@ -52,7 +52,7 @@ Also ships interactive products. **Ludo delux** is a finished cross-platform gam
 |-----------|-------------|------------|------------|
 | **GIS_TDEP** | Collects site IDs from CASTNET / NTN networks and provides interactive GIS mapping, statistical analysis, and FFT/ACF trend detection of wet & dry deposition data | [GIS_TDEP](https://liamtrinhnguyen.github.io/GIS_TDEP/) | [Ideas/Suggest](https://github.com/LiamTrinhNguyen/GIS_TDEP/issues) |
 | **NGS variance** | demo of sample running | [RUN](https://liamtrinhnguyen.github.io/ngs-variant-calling/) | [Ideas/Suggest](https://github.com/LiamTrinhNguyen/GIS_TDEP/issues) |
-| **Ludo delux** | Ladybug race. Boards for 3–10 players, 20-second turns, exact-distance kicks, Wild rocket / black hole / golden die / suffer. Deployed on vercel.com. Postgres managed in the Neon Console. Built for iPhone and the App Store. |[web version]([https://vercel.com](https://ludo-delux.vercel.app)) |
+| **Ludo delux** | Ladybug race. Boards for 3–10 players, 20-second turns, exact-distance kicks, Wild rocket / black hole / golden die / suffer. Postgres managed in the Neon Console. Built for iPhone and the App Store. | [Play](https://ludo-delux.vercel.app) | [Ideas/Suggest](https://github.com/LiamTrinhNguyen/LiamTrinhNguyen/issues) |
 
 ---
 
