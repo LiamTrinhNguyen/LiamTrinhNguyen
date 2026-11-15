@@ -42,7 +42,7 @@ Also ships interactive products. **Ludo delux** is a finished cross-platform gam
 | Dual FFT-ACF Periodicity Analysis | Persistent cycle detection in environmental data | NADP 2026 |
 | Automated NGS Variant Calling (E. coli) | Full pipeline: SRA -> fastp -> BWA-MEM -> BCFtools -> SnpEff | [ngs-variant-calling](https://github.com/LiamTrinhNguyen/ngs-variant-calling) |
 | NCBI Proteomics Fetcher & Analysis | Automated proteomics workflow with in-silico digestion | [ncbi-proteomics-fetcher](https://github.com/LiamTrinhNguyen/ngs-variant-calling/issues) |
-| Ludo delux | Cross-platform ladybug race for 3–10 players. Hosted on Vercel. Database on the Neon Console. Apple App Store submission. | [Vercel](https://vercel.com) · [Neon Console](https://console.neon.tech) |
+| Ludo delux | Cross-platform ladybug race for 3–10 players. Hosted on Vercel. Database on the Neon Console. Apple App Store submission. | [web version]([https://vercel.com](https://ludo-delux.vercel.app))  |
 
 ---
 
