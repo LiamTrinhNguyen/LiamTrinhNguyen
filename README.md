@@ -2,7 +2,6 @@
   <img src="assets/logo.png" alt="Liam TrinhNguyen Logo" width="100%"/>
 </p>
 
-
 <h3 align="center">APHL-CDC Public Health Laboratory Fellow (2025–2027) | Data Scientist & Bioinformatician</h3>
 
 <p align="center">
@@ -17,6 +16,8 @@
 ### About Me
 
 Accomplished Data Scientist with an M.S. in Bioinformatics & Computational Biology and a track record of architecting reproducible, research-scale data pipelines. Expert in bridging the gap between ambiguous research questions and production-grade technical solutions through rigorous statistical analysis, ML-based imputation, and large-scale NGS data processing. Proven ability to optimize development workflows, lead cross-disciplinary collaborations, and maintain high standards for validation — from high-throughput genomic sequencing experiments to longitudinal environmental monitoring.
+
+Also ships interactive products. **Ludo delux** is a finished cross-platform game, built in TypeScript and React and prepared for the Apple App Store: a 3–10 player ladybug race with exact-distance rules, Wild items, and phone-to-phone play. The live app runs on [Vercel](https://vercel.com) and stores its data in [Neon](https://console.neon.tech) Postgres.
 
 ---
 
@@ -41,24 +42,26 @@ Accomplished Data Scientist with an M.S. in Bioinformatics & Computational Biolo
 | Dual FFT-ACF Periodicity Analysis | Persistent cycle detection in environmental data | NADP 2026 |
 | Automated NGS Variant Calling (E. coli) | Full pipeline: SRA -> fastp -> BWA-MEM -> BCFtools -> SnpEff | [ngs-variant-calling](https://github.com/LiamTrinhNguyen/ngs-variant-calling) |
 | NCBI Proteomics Fetcher & Analysis | Automated proteomics workflow with in-silico digestion | [ncbi-proteomics-fetcher](https://github.com/LiamTrinhNguyen/ngs-variant-calling/issues) |
+| Ludo delux | Cross-platform ladybug race for 3–10 players. Hosted on Vercel. Database on the Neon Console. Apple App Store submission. | [Vercel](https://vercel.com) · [Neon Console](https://console.neon.tech) |
 
 ---
 
 ### Visual Demo
 
-| Name | Description | DEMO | Suggestion
+| Name | Description | DEMO | Suggestion |
 |-----------|-------------|------------|------------|
-| **GIS_TDEP** | Collects site IDs from CASTNET / NTN networks and provides interactive GIS mapping, statistical analysis, and FFT/ACF trend detection of wet & dry deposition data | [GIS_TDEP](https://liamtrinhnguyen.github.io/GIS_TDEP/) | [Ideas/Suggest](https://github.com/LiamTrinhNguyen/GIS_TDEP/issues)|
-| **NGS variance** | demo of sample running | [RUN](https://liamtrinhnguyen.github.io/ngs-variant-calling/) | [Ideas/Suggest](https://github.com/LiamTrinhNguyen/GIS_TDEP/issues)|
+| **GIS_TDEP** | Collects site IDs from CASTNET / NTN networks and provides interactive GIS mapping, statistical analysis, and FFT/ACF trend detection of wet & dry deposition data | [GIS_TDEP](https://liamtrinhnguyen.github.io/GIS_TDEP/) | [Ideas/Suggest](https://github.com/LiamTrinhNguyen/GIS_TDEP/issues) |
+| **NGS variance** | demo of sample running | [RUN](https://liamtrinhnguyen.github.io/ngs-variant-calling/) | [Ideas/Suggest](https://github.com/LiamTrinhNguyen/GIS_TDEP/issues) |
+| **Ludo delux** | Ladybug race. Boards for 3–10 players, 20-second turns, exact-distance kicks, Wild rocket / black hole / golden die / suffer. Deployed on vercel.com. Postgres managed in the Neon Console. Built for iPhone and the App Store. | [Vercel](https://vercel.com) | [Neon Console](https://console.neon.tech) |
 
 ---
 
 ### Tech Stack
 
-
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
@@ -70,6 +73,15 @@ Accomplished Data Scientist with an M.S. in Bioinformatics & Computational Biolo
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+**Product & App**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon%20Console-00E699?style=flat&logo=neon&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
+![iOS](https://img.shields.io/badge/App%20Store-0D96F6?style=flat&logo=appstore&logoColor=white)
 
 **Bioinformatics**  
 ![NCBI](https://img.shields.io/badge/NCBI-4B0082?style=flat)
@@ -117,4 +129,4 @@ Accomplished Data Scientist with an M.S. in Bioinformatics & Computational Biolo
 
 ---
 
-*Building reproducible pipelines that turn complex environmental and biological data into actionable scientific insights.*
+*Building reproducible pipelines that turn complex environmental and biological data into actionable scientific insights — and shipping the occasional product end to end, on Vercel with Neon.*
