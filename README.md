@@ -52,7 +52,7 @@ Also ships interactive products. **Ludo delux** is a finished cross-platform gam
 |-----------|-------------|------------|------------|
 | **GIS_TDEP** | Collects site IDs from CASTNET / NTN networks and provides interactive GIS mapping, statistical analysis, and FFT/ACF trend detection of wet & dry deposition data | [GIS_TDEP](https://liamtrinhnguyen.github.io/GIS_TDEP/) | [Ideas/Suggest](https://github.com/LiamTrinhNguyen/GIS_TDEP/issues) |
 | **NGS variance** | demo of sample running | [RUN](https://liamtrinhnguyen.github.io/ngs-variant-calling/) | [Ideas/Suggest](https://github.com/LiamTrinhNguyen/GIS_TDEP/issues) |
-| **Ludo delux** | Ladybug race. Boards for 3–10 players, 20-second turns, exact-distance kicks, Wild rocket / black hole / golden die / suffer. Deployed on vercel.com. Postgres managed in the Neon Console. Built for iPhone and the App Store. | [Vercel](https://vercel.com) | [Neon Console](https://console.neon.tech) |
+| **Ludo delux** | Ladybug race. Boards for 3–10 players, 20-second turns, exact-distance kicks, Wild rocket / black hole / golden die / suffer. Deployed on vercel.com. Postgres managed in the Neon Console. Built for iPhone and the App Store. |[web version]([https://vercel.com](https://ludo-delux.vercel.app)) |
 
 ---
 
