@@ -17,6 +17,8 @@
 
 Accomplished Data Scientist with an M.S. in Bioinformatics & Computational Biology and a track record of architecting reproducible, research-scale data pipelines. Expert in bridging the gap between ambiguous research questions and production-grade technical solutions through rigorous statistical analysis, ML-based imputation, and large-scale NGS data processing. Proven ability to optimize development workflows, lead cross-disciplinary collaborations, and maintain high standards for validation — from high-throughput genomic sequencing experiments to longitudinal environmental monitoring.
 
+On the genomics side, **[ngs-variant-calling](https://github.com/LiamTrinhNguyen/ngs-variant-calling)** takes bacterial and viral sequencing reads from raw FASTQ (or an SRA accession) to an interactive results dashboard. It runs as an interactive script, a **Snakemake** workflow or a **Nextflow** pipeline, all with the same settings and the same results. It checks samples for contamination and mixed infections before alignment, flags weak calls instead of deleting them, and tests the calls with R statistics.
+
 Also ships interactive products. **Ludo delux** is a finished cross-platform game, built in TypeScript and React and prepared for the Apple App Store: a 3–10 player ladybug race with exact-distance rules, Wild items, and phone-to-phone play. Play it at [ludo-delux.vercel.app](https://ludo-delux.vercel.app). It runs on Vercel and stores temporary room data in Neon Postgres. The source stays private.
 
 ---
@@ -40,8 +42,8 @@ Also ships interactive products. **Ludo delux** is a finished cross-platform gam
 | Automated Preliminary Review (APR) | Rule-based high-risk sample review automation (SOP-300) | [data_prelim](https://github.com/LiamTrinhNguyen/nadp_data_prelim) |
 | NADP TDep Model Fusion | Measurement-Model Fusion pipeline for deposition mapping | [nadp_tdep](https://github.com/LiamTrinhNguyen/nadp_tdep) |
 | Dual FFT-ACF Periodicity Analysis | Persistent cycle detection in environmental data | NADP 2026 |
-| Automated NGS Variant Calling (E. coli) | Full pipeline: SRA -> fastp -> BWA-MEM -> BCFtools -> SnpEff | [ngs-variant-calling](https://github.com/LiamTrinhNguyen/ngs-variant-calling) |
-| NCBI Proteomics Fetcher & Analysis | Automated proteomics workflow with in-silico digestion | [ncbi-proteomics-fetcher](https://github.com/LiamTrinhNguyen/ngs-variant-calling/issues) |
+| Automated NGS Variant Calling (bacteria & viruses) | SRA/FASTQ -> fastp -> contamination screen -> BWA-MEM -> BCFtools (haploid) -> SnpEff -> QUAL/DP/AF filter -> R statistics -> HTML dashboard. Runs as a script, Snakemake or Nextflow | [ngs-variant-calling](https://github.com/LiamTrinhNguyen/ngs-variant-calling) |
+| NCBI Proteomics Fetcher & Analysis | Automated proteomics workflow with in-silico digestion | [ncbi-proteomics-fetcher](https://github.com/LiamTrinhNguyen/ncbi-proteomics-fetcher) |
 | Ludo delux | Cross-platform ladybug race for 3–10 players. Live on Vercel. Temporary room data on the Neon Console. Source is private. Apple App Store submission. | [Play](https://ludo-delux.vercel.app) |
 
 ---
@@ -51,7 +53,7 @@ Also ships interactive products. **Ludo delux** is a finished cross-platform gam
 | Name | Description | DEMO | Suggestion |
 |-----------|-------------|------------|------------|
 | **GIS_TDEP** | Collects site IDs from CASTNET / NTN networks and provides interactive GIS mapping, statistical analysis, and FFT/ACF trend detection of wet & dry deposition data | [GIS_TDEP](https://liamtrinhnguyen.github.io/GIS_TDEP/) | [Ideas/Suggest](https://github.com/LiamTrinhNguyen/GIS_TDEP/issues) |
-| **NGS variance** | demo of sample running | [RUN](https://liamtrinhnguyen.github.io/ngs-variant-calling/) | [Ideas/Suggest](https://github.com/LiamTrinhNguyen/GIS_TDEP/issues) |
+| **NGS Variant Calling** | Results dashboard from a sample run: QC, reference screen, coverage, filters, variant table and R statistics | [RUN](https://liamtrinhnguyen.github.io/ngs-variant-calling/) | [Ideas/Suggest](https://github.com/LiamTrinhNguyen/ngs-variant-calling/issues) |
 | **Ludo delux** | Ladybug race. Boards for 3–10 players, 20-second turns, exact-distance kicks, Wild rocket / black hole / golden die / suffer. Postgres managed in the Neon Console. Built for iPhone and the App Store. | [Play](https://ludo-delux.vercel.app) | [Ideas/Suggest](https://github.com/LiamTrinhNguyen/LiamTrinhNguyen/issues) |
 
 ---
@@ -85,11 +87,19 @@ Also ships interactive products. **Ludo delux** is a finished cross-platform gam
 
 **Bioinformatics**  
 ![NCBI](https://img.shields.io/badge/NCBI-4B0082?style=flat)
+![ENA](https://img.shields.io/badge/ENA-4B0082?style=flat)
+![Biopython](https://img.shields.io/badge/Biopython-4B0082?style=flat)
+![fastp](https://img.shields.io/badge/fastp-FF69B4?style=flat)
 ![BWA-MEM](https://img.shields.io/badge/BWA-4B0082?style=flat)
+![SAMtools](https://img.shields.io/badge/SAMtools-4B0082?style=flat)
 ![BCFtools](https://img.shields.io/badge/BCFtools-8B4513?style=flat)
 ![SnpEff](https://img.shields.io/badge/SnpEff-228B22?style=flat)
-![fastp](https://img.shields.io/badge/fastp-FF69B4?style=flat)
+![Kraken2](https://img.shields.io/badge/Kraken2%20%2B%20Bracken-8B4513?style=flat)
 ![Bioconda](https://img.shields.io/badge/Bioconda-44A833?style=flat)
+
+**Workflow Managers**  
+![Snakemake](https://img.shields.io/badge/Snakemake-039475?style=flat)
+![Nextflow](https://img.shields.io/badge/Nextflow-0DC09D?style=flat)
 
 **Tools & Infrastructure**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -101,6 +111,7 @@ Also ships interactive products. **Ludo delux** is a finished cross-platform gam
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Codespaces](https://img.shields.io/badge/GitHub%20Codespaces-181717?style=flat&logo=github&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
 
 **Visualization & Reporting**  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
